@@ -1,6 +1,6 @@
  //Pide al usuario 3 números, los muestra en consola. 
- // Si los números son iguales muestra en consola que "Los numeros son igueles" y ya no hace la comparación de numeros
- //si no, hace toda la comparacion. Mostrando primero de mayor a menor y despues de menor a mayos.
+ // Si los números son iguales muestra en consola "Los numeros son igueles" y ya no hace la comparación de numeros
+ //si no, hace toda la comparación. Mostrando primero de mayor a menor y despúes de menor a mayor.
 let num01 = prompt("Introduce el primer número: ");
 let num02 = prompt("Introduce el segundo número: ");
 let num03 = prompt("Introduce el tercer número: ");
